@@ -25,12 +25,12 @@ To evaluate the data set, training was carried out with 3 convolutional neural n
 
 Model | #Xception | #ResNet50 | #VGG16 |
 --- | --- | --- |  --- |
-Accuracy graph | ![Example](https://camo.githubusercontent.com/f0fe57a3540c293e21dcadff0cf5dedf3aaaea16509613822ee713fd40228a91/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313833382f312a6f4233533579484868766f75674a6b50587563386f672e676966) | ![Example](https://camo.githubusercontent.com/f0fe57a3540c293e21dcadff0cf5dedf3aaaea16509613822ee713fd40228a91/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313833382f312a6f4233533579484868766f75674a6b50587563386f672e676966)| ![Example](https://camo.githubusercontent.com/f0fe57a3540c293e21dcadff0cf5dedf3aaaea16509613822ee713fd40228a91/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313833382f312a6f4233533579484868766f75674a6b50587563386f672e676966)|
-File| ```CatOrDog_XCEPTION.ipynb``` | ```CatOrDog_RESNET50.ipynb``` |  ```CatOrDog_VGG16 .ipynb``` |
+Accuracy graph | ![Example](https://github.com/LuizAlencar17/cat-and-dog-recognition/blob/main/Files/XCEPTION.png?raw=true) | ![Example](https://github.com/LuizAlencar17/cat-and-dog-recognition/blob/main/Files/RESNET50.png?raw=true)| ![Example](https://github.com/LuizAlencar17/cat-and-dog-recognition/blob/main/Files/VGG16.png?raw=true)|
+File| ```CatOrDog_XCEPTION.ipynb``` | ```CatOrDog_RESNET50.ipynb``` |  ```CatOrDog_VGG16.ipynb``` |
 
 ### The best model
 
-The best trained model was the ```VGG16```, its accuracy was superior to the others, as well as its loss was inferior to the others
+The best trained model was the ```Xception```, its accuracy was superior to the others, as well as its loss was inferior to the others
 
 ## Example
 
